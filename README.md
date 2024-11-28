@@ -269,7 +269,7 @@
 </details>
 
 <details>
-    <summary> 💡2024-10.01(화) ~ 2024-10.31(목)💡 </summary>
+    <summary> 💡2024-10.01(화) ~ 2024-10.16(수)💡 </summary>
 <br><br/>    
 <details>
     <summary>2024-10-01 (화)</summary>
